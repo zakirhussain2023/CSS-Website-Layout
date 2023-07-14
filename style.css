@@ -1,0 +1,522 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.flex-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.flex-item1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+.flex-item12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+}
+
+
+/* header Section starts */
+
+.header{
+	background-color:black;
+	padding:15px;
+}
+
+/* logo sec starts */
+
+.logo{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+
+.navbar{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+
+.button{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+
+/* logo sec ends */
+
+/* navbar starts */
+
+
+.logo{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+
+
+/* navbar ends */
+
+.navbar{
+	height:50px;
+	width:auto;
+	background-color:red;
+}
+
+
+
+
+/* header sec ends */
+
+/* banner sec starts  */
+.banner{
+	padding:80px;
+	background-color:red;
+}
+
+.bannercon{
+	height:300px;
+	width:auto;
+	background-color:black;
+	
+	
+}
+
+/* banner sec ends  */
+
+/* swiper section starts */
+
+.swiper-section{
+	padding:15px;
+	background-color:black;
+}
+
+.swip{
+	height:50px;
+	width:auto;
+	background-color:red;
+	
+}
+
+/* swiper section starts */
+	
+/* about section starts */
+.about{
+	padding:50px;
+	background-color:red;
+}
+
+.about1{
+	
+	height:150px;
+	width:auto;
+	background-color:black;
+}
+
+
+.about2{
+	
+	height:150px;
+	width:auto;
+	background-color:black;
+}
+
+.about3{
+	
+	height:150px;
+	width:auto;
+	background-color:black;
+}
+
+	
+/* about section ends */	
+
+/*counter sec starts */
+.counter-section{
+	padding:50px;
+	background-color:black;
+}
+
+.count{
+	
+	height:50px;
+	width:auto;
+	background-color:red;
+
+}
+
+.counter-section2{
+	padding:50px;
+	background-color:red;
+}
+
+.count1{
+	
+	height:50px;
+	width:auto;
+	background-color:black;
+
+}
+
+.card-details{
+	padding:50px;
+	background-color:black;
+}
+
+.card1{
+	
+	height:300px;
+	width:auto;
+	background-color:red;
+
+}
+
+
+/*counter sec ends */
+
+/*service section starts */
+
+.service{
+	  padding:50px;
+	  background-color:red;
+	}
+
+.service1{
+	height:50px;
+	width:auto;
+	background-color:black;
+	 
+}
+
+.service2{
+	margin-top:10px;
+	height:50px;
+	width:auto;
+	background-color:black;
+	 
+}
+
+.service3{
+	margin-top:10px;
+    height:350px;
+	width:auto;
+	background-color:black;
+}
+
+/* portfolio section starts  */
+
+.portfolio{
+    background-color: black;
+    padding: 50px;
+}
+
+.portfolio_title{
+    height:50px;
+    width: auto;
+    background-color: red;
+}
+
+.para1{
+    height:50px;
+    margin-top: 10px;
+    width: auto;
+    background-color: red;
+}
+
+.portfolio-row{
+    margin-top: 10px;
+    height:250px;
+    width: auto;
+    background-color: red;
+}
+
+.portfolio-row1{
+    margin-top: 10px;
+    height:250px;
+    width: auto;
+    background-color: red;
+}
+
+.portfolio-row2{
+    margin-top: 10px;
+    height:250px;
+    width: auto;
+    background-color: red;
+}
+
+/* portfolio section ends */ 
+
+/* testimonials section starts */
+
+.testimonials{
+    background-color: red;
+    padding: 50px;
+}
+.test_title{
+    height:50px;
+    width: auto;
+    background-color: black;
+}
+
+.para2{
+    height:50px;
+    margin-top: 10px;
+    width: auto;
+    background-color: black;
+}
+
+.testi{
+    margin-top: 10px;
+    height:200px;
+    width: auto;
+    background-color: black;
+}
+
+
+/* testimonials section ends */
+/* Pricing section starts */
+
+.pricing{
+    background-color: black;
+    padding: 50px;
+}
+.pricing_title{
+    height:50px;
+    width: auto;
+    background-color: red;
+}
+
+.para3{
+    height:50px;
+    margin-top: 10px;
+    width: auto;
+    background-color: red;
+}
+
+.pricing_details{
+    margin-top: 10px;
+    height:500px;
+    width: auto;
+    background-color: red;
+}
+/* Pricing section ends */
+/* faq section starts */
+
+.faq{
+    background-color: red;
+    padding: 50px;
+}
+
+.faq_title{
+    height:50px;
+    width: auto;
+    background-color: black;
+    margin:0 auto;
+    margin: 10px 50px;
+}
+
+
+.faq1{
+    margin-top: 10px;
+    height:50px;
+    margin-top: 10px;
+    width: auto;
+    background-color: black;
+}
+/* faq section starts */
+/* team section starts */
+
+.team{
+    background-color: black;
+    padding: 50px;
+}
+.team_title{
+    height:50px;
+    width: auto;
+    background-color: red;
+}
+
+.para4{
+    height:50px;
+    margin-top: 10px;
+    width: auto;
+    background-color: black;
+}
+
+.team_details{
+    margin-top: 10px;
+    height:300px;
+    width: auto;
+    background-color: red;
+}
+/* team section starts */
+/* Contact section starts */
+
+.contact{
+	background-color:black;
+	padding:15px 0;
+}
+
+.contact_title{
+	height:30px;
+	background-color:red;
+	margin:10px 50px;
+	
+}
+.para5{
+    height:35px;
+    width: 91.5%;
+    background-color: red;
+    margin: 10px 48px;
+    
+}
+
+
+.contact_left{
+	height:350px;
+	background-color:red;
+    display:flex;
+	flex-wrap:wrap;
+	margin:10px;
+	padding:10px 0;
+	
+}
+.contact_address{
+	height:100px;
+	background-color:red;
+	margin:10px 0;
+}
+.contact_mail{
+	height:130px;
+	background-color:red;
+	margin:10px 0;
+}
+.contact_call{
+	height:130px;
+    background-color:red;
+	margin:10px 0;
+
+}
+	
+.contact_message{
+	height:350px;
+	background-color:red;
+	margin:10px
+}
+/* Contact Section Ends */	
+
+/* footer Section Starts */	
+
+.footer{
+	background-color:red;
+	padding:25px 0;
+}
+.footer_content{
+	height:100px;
+	background-color:black;
+}
+/* footer Section Ends*/
+	
+
+
+
+
